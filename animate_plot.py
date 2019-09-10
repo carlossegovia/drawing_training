@@ -11,7 +11,7 @@ df = pd.read_csv(data, usecols=["year", "name", "win_count", "gender"])
 
 def top_winners_by_year(year):
     """
-    Top ten tennis players with more throphies by year
+    Top ten tennis players with more trophies by year
     :param year:
     :return:
     """
