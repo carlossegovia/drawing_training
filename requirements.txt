@@ -8,7 +8,7 @@ idna==2.8
 kiwisolver==1.1.0
 matplotlib==2.2.4
 nemo-emblems==3.8.0
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.24.2
 pssh==2.3.1
 pycairo==1.16.2
